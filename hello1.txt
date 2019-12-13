@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 34
@@ -6,3 +7,16 @@ R3
 backup
 backup2
 backup3
+=======
+1
+2
+34
+5
+R3
+backup
+backup2
+backup3
+
+
+
+>>>>>>> 301c9f5e66591caa8204499bbaa918434731fc57
